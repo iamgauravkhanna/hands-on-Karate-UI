@@ -1,0 +1,4 @@
+20:19:08.925 webdriver session create status 0, null
+20:19:08.928 driver config / start failed: webdriver session create status 0, null, options: {type=geckodriver, showDriverLog=true, target=null}
+
+tions: {type=chrome, showDriverLog=true, target=null}
